@@ -17,22 +17,18 @@ This project walks through the complete journey of building a Retrieval-Augmente
 - ChromaDB integration for vector storage
 
 ## Building a Basic RAG Chain
-
 - Step-by-step implementation
 - Query answering from documents
 
 ## Conversational RAG System
-
 - Handling follow-up questions
 - Query refinement using context
 
 ## Using Pre-Built RAG Chains
-
 - history_aware_retriever
 - create_retrieval_chain
 
 ## Multi-User Chatbot
-
-Maintaining conversation history per user
+- Maintaining conversation history per user
 
 SQLite-based persistence layer
