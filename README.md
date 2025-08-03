@@ -8,7 +8,6 @@ This project walks through the complete journey of building a Retrieval-Augmente
 - Large Language Models (LLMs)
 - Prompt templates and output parsers
 - Retrievers
-- LangChain Expression Language (LCEL)
 - Chaining multiple components
 
 ## Document Processing & Vector Storage
@@ -30,5 +29,4 @@ This project walks through the complete journey of building a Retrieval-Augmente
 
 ## Multi-User Chatbot
 - Maintaining conversation history per user
-
-SQLite-based persistence layer
+- SQLite-based persistence layer
